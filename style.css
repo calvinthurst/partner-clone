@@ -1,0 +1,28 @@
+.bg-darkblue {
+  background-color: rgb(23, 62, 84);
+  height: 80vh;
+}
+
+.bg-highfive {
+  background: rgba(23, 62, 84, .5) url(https://s3-alpha-sig.figma.com/img/d23f/9ded/0024914a842775d35f769ca7b54e25b6?Expires=1667779200&Signature=UmSO12gC4xh10PMTjxmbc2XItp8ix6-es6U9VlsUo6KnxHwbcvC-0m6t0nfy29I9qVtKp5nc54H-IyBkXIQjjjKzxqoCNWk7o-HxcWt0v~MltFTlIgBEgSw41b-b5drn66pMQq~QAdNVKGXsd68Oi2wzhtEnSALlTaFxMMp6kUGAvXfE-37~F2Q48aFPZ1VHLMHXe5nzgt9Uot0-IvUZHaQCKuM1VOWu0raQVDZIOQrDC0tFpfyu9OPzg9eD4ADYhYVjph5-beb5jHNCf7xayqbCKiSechgKHzIlA4fee8mMAKflX3AV-RKMh2LE9jhN8UsGNf50obR6sSDR0eNIqw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA);
+  background-blend-mode: darken;
+  height: auto;
+}
+
+.light-blue {
+  border-color: #84D4E5;
+}
+
+.bg-lb {
+  background-color: #84D4E5;
+}
+
+.bg-gradient {
+  background-image: var(--bs-gradient);
+}
+
+.bg-table-top {
+  background: rgba(23, 62, 84, .5) url(https://s3-alpha-sig.figma.com/img/fb30/1ba3/2ce6d9e849c5bbcc6169916b619ef8a6?Expires=1667779200&Signature=EsoEissX6At2Vn79H~mE5-0go~9hf85b~m9URgPaJpE96Fn7mXGpTPfjNNRvAVaiyIBJUcOHzMcDMgKa~bkihWQRDiFt5lWgGlP69J1CFxqhNkTZVG7HNc8K1n4Jfpt84y1H~sV9dIHpbVyTHYcAZuzq8Uz08c4SU6rOTqVOKuwBPGXf2jSA3uuqc-yay4UGlagyuwsM0nzSNuqXdGamWyyEunLzzsZR7PU2go~X4xL5AAPOcEM2wwJNO7MyUV3sDM6yjn-ZtzTv-NeDHzVpTztawgiztl4rN4iL~g6fKIxcQEjg5F9r86ORUiYvRKgqh5ImGhaM0acSCVkWBjdbcw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA);
+  background-blend-mode: darken;
+  height: auto;
+}
